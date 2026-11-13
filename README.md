@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="idk logo" width="180" />
+</p>
+
 # Golden Compass — Web Prototype
 
 A standalone, mobile-first interface prototype for a digital investment experience. The page explores portfolio-oriented screens, investment navigation, and a dark visual system with gold and teal accents.
